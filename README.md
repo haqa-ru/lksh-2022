@@ -1,8 +1,9 @@
 # Летняя Компьютерная Школа 2022
 
-# Навигация
+# База
 
 **[Рекомендации по кодстайлу](https://github.com/haqa-ru/lksh-2022/blob/main/codestyle-notations.md)**
+**[Правила оформления кода для контеста по геометрии](https://github.com/haqa-ru/lksh-2022/blob/main/Geometry_code_style.pdf)**
 
 ## Асимптотика
 **[Видео от Е.В. Андреевой - Часть 1](https://www.youtube.com/watch?v=Snyn7EqHJME)**
@@ -10,7 +11,7 @@
 **[Видео от Е.В. Андреевой - Часть 2](https://www.youtube.com/watch?v=Q63qTiLOCsY)**
 
 ## Базовые структуры данных (Стек, дек, очередь, списки)
-**[Лекция](https://github.com/haqa-ru/lksh-2022/blob/main/codestyle-notations.md)**
+**[Лекция](https://github.com/haqa-ru/lksh-2022/blob/main/stack.md)**
 
 **[Лекция Сириуса](https://www.youtube.com/watch?v=YtNH8ZnoBqU)**
 
