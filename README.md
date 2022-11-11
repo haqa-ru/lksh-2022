@@ -3,6 +3,7 @@
 # База
 
 **[Рекомендации по кодстайлу](https://github.com/haqa-ru/lksh-2022/blob/main/codestyle-notations.md)**
+
 **[Правила оформления кода для контеста по геометрии](https://github.com/haqa-ru/lksh-2022/blob/main/Geometry_code_style.pdf)**
 
 ## Асимптотика
