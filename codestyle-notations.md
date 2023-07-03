@@ -222,6 +222,6 @@ int main() {
 
 > :hearts: **Существуют и другие стили, которые вы можете свободно эксплуатировать!**
 
-**[Microsoft Codestyle](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fsphinxlogic%2FAll-In-One-Code-Framework%2Fmaster%2FAll-In-One%2520Code%2520Framework%2520Coding%2520Standards.docx&wdOrigin=BROWSELINK)**
+**[Microsoft Codestyle](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fhaqa-ru%2Flksh-2022%2Fmain%2FAll-In-One%2520Code%2520Framework%2520Coding%2520Standards.docx&wdOrigin=BROWSELINK)**
 
 **[Google Codestyle](https://google.github.io/styleguide/cppguide.html)**
