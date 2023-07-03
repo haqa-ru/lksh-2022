@@ -30,15 +30,19 @@ c = *a_ptr;
 obj_field = obj->field;
 ```
 
-- Функции и другие блоки кода **отделяются друг от друга**
+- Блоки кода **отделяются пробелом и отступом**
 
 ```c++
-{
-    // Может быть телом класса/структуры.
+class {
+    // Может быть телом класса/структуры,
 };
 
+void fn(...) {
+    // функции
+}
+
 {
-    // Или телом функции/блока.
+    // или блоком.
 }
 ```
 
@@ -75,7 +79,7 @@ int very_long_function_name(int even_bigger_parameter_name, int not_so_big_one,
 
 int result = very_long_function_name(
     passing_even_bigger_parameter, and_not_so_big_one,
-    he_fell_off, d);
+    it_fell_off, d);
 ```
 
 - Базовые конструкции
@@ -98,7 +102,7 @@ for (...) {
 
 do {
     // Сделаю хотя-бы раз.
-} while ((with && more && priority) || (still && scoped));
+} while ((with && greater && priority) || (still && scoped));
 ```
 
 ## Примерный шаблон кода
@@ -216,7 +220,7 @@ int main() {
 
 ## Дополнительные ссылки
 
-> :hearts: **Существуют и другие стили, которые вы можете эксплуатировать!**
+> :hearts: **Существуют и другие стили, которые вы можете свободно эксплуатировать!**
 
 **[Microsoft Codestyle](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fsphinxlogic%2FAll-In-One-Code-Framework%2Fmaster%2FAll-In-One%2520Code%2520Framework%2520Coding%2520Standards.docx&wdOrigin=BROWSELINK)**
 
